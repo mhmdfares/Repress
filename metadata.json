@@ -1,0 +1,5 @@
+{
+  "name": "AI Text Rewriter (Arabic)",
+  "description": "An AI-powered tool to rewrite and rephrase text for various purposes like social media posts, articles, and data analysis. It supports custom conditions, tones, and can leverage Google Search for up-to-date information.",
+  "requestFramePermissions": []
+}
